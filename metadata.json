@@ -1,0 +1,31 @@
+
+{
+  "name": "Captain Coin",
+  "symbol": "CAPC",
+  "description": "Captain Coin is a community-created digital token built on Solana.",
+  "image": "https://raw.githubusercontent.com/Coritho/CaptainCoin/main/Captain%20Coin%20Emblem.png",
+  "external_url": "https://github.com/Coritho/CaptainCoin",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Community"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1000000000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Coritho/CaptainCoin/main/Captain%20Coin%20Emblem.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
